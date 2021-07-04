@@ -1,0 +1,4 @@
+#Header: made in Elsa
+#Characteristic: 
+온도 : - 100 °C \n 자전 주기 : 70시간 45분 \n 공전 주기 : 534일 \n 특징 : 추운 행성이지만 아이스크림은 흔하지 않은 음식이다
+

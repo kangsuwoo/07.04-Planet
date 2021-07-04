@@ -1,0 +1,3 @@
+#Header: Havay
+#Characteristic: 
+온도 : -3°C \n 자전주기 : 60시간 \n 공전 주기 : 401일 \n 특징 : Havay의 액체는 99 %가 석유인 천연자원 행성이다
